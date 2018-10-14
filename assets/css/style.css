@@ -118,6 +118,11 @@ ul.portfolio {
     list-style:none;
 }
 
+.portfoliopic {
+    width: 275px;
+    height: auto;
+}
+
 .portfolioItem {
     margin: 16px 40px 16px 0;
     position: relative;
@@ -171,7 +176,7 @@ ul.portfolio {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
-.pageTitle {
+.pageTitle, input, textarea {
     animation-name: opacityin;
     animation-duration: 1s;
 }
