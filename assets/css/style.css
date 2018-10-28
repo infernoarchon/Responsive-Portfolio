@@ -36,8 +36,6 @@ p, label {
     line-height: 2em;
     font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
     color: #777;
-    animation-name: opacityin;
-    animation-duration: 1s;
 }
 
 hr {
@@ -78,8 +76,6 @@ img {
     min-width: 10%;
     min-height: 10%;
     opacity: 100%;
-    animation-name: opacityin;
-    animation-duration: 1.5s;
 }
 
 input[type="text"],
@@ -143,6 +139,9 @@ ul.portfolio {
 .portfolioItem {
     margin: 16px 40px 16px 0;
     position: relative;
+    opacity: 100%;
+    animation-name: opacityin;
+    animation-duration: 1.5s;
 }
 
 .caption {
@@ -307,6 +306,9 @@ ul.portfolio {
     }
     .portfolioItem {
         width: 100%;
+        opacity: 100%;
+        animation-name: opacityin;
+        animation-duration: 1.5s;
     }
     input[type="text"],
     input[type="email"] {
