@@ -76,6 +76,8 @@ img {
     min-width: 10%;
     min-height: 10%;
     opacity: 100%;
+    animation-name: opacityin;
+    animation-duration: 1s;
 }
 
 input[type="text"],
