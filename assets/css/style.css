@@ -139,7 +139,7 @@ ul.portfolio {
 }
 
 .portfolioItem {
-    margin: 16px 40px 16px 0;
+    margin: 10px;
     position: relative;
     opacity: 100%;
     animation-name: opacityin;
@@ -233,12 +233,6 @@ ul.portfolio {
     }
     .inner {
         max-width: 62%;
-    }
-    .portfolioItem {
-        margin: 16px 0px 16px 0;
-    }
-    .portfolioItemRight {
-        margin: 16px 0px 16px 44px;
     }
     input[type="text"],
     input[type="email"] {
