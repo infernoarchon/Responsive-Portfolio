@@ -213,6 +213,8 @@ ul.portfolio {
 .profilepic {
     margin: 10px 20px 0 0;
     float: left;
+    height: 200px;
+    width: auto;
 }
 
 .navitem {
