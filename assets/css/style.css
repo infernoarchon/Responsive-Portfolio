@@ -283,7 +283,7 @@ ul.portfolio {
     .profilepic {
         margin: 0 0 20px 0;
         display: block;
-        min-width: 100%;
+        width: 100%;
         height: auto;
     }
     p {
